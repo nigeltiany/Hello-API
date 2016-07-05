@@ -99,41 +99,7 @@ It uses the best framework, packages, tools and conventions. All configured to w
 <a name="Documentation"></a>
 ## Full Documentation
 
-**Hello API** comes with a detailed documentation ([wiki](https://github.com/Mahmoudz/Hello-API/wiki)), to help you getting started and modifying the existing code.
-
-* Intro
-	* [Introduction](https://github.com/Mahmoudz/Hello-API/wiki/Home#introduction)
-	* [Requirements](https://github.com/Mahmoudz/Hello-API/wiki/Home#requirements)
-	* [Installation](https://github.com/Mahmoudz/Hello-API/wiki/Home#installation)
-* General
-	* [Folders Structure](https://github.com/Mahmoudz/Hello-API/wiki/Folders-Structure)
-	* [Development Workflow](https://github.com/Mahmoudz/Hello-API/wiki/Development-Workflow)
-	* [Frequently Asked Questions (FAQ)](https://github.com/Mahmoudz/Hello-API/wiki/FAQ)
-* API
-	* [Request & Response](https://github.com/Mahmoudz/Hello-API/wiki/API-Request-and-Response)
-	* [Supported Parameters](https://github.com/Mahmoudz/Hello-API/wiki/API-Parameters)
-	* [Documentation Generator](https://github.com/Mahmoudz/Hello-API/wiki/API-Doc-Generator)
-* Layers
-	* [Modules](https://github.com/Mahmoudz/Hello-API/wiki/Modules)
-	* [Services](https://github.com/Mahmoudz/Hello-API/wiki/Services)
-* Components
-	* [Routes](https://github.com/Mahmoudz/Hello-API/wiki/Routes)
-	* [Controllers](https://github.com/Mahmoudz/Hello-API/wiki/Controllers)
-	* [Models](https://github.com/Mahmoudz/Hello-API/wiki/Models)
-	* [Tasks](https://github.com/Mahmoudz/Hello-API/wiki/Tasks)
-	* [Service Providers](https://github.com/Mahmoudz/Hello-API/wiki/Service-Providers)
-	* [Requests](https://github.com/Mahmoudz/Hello-API/wiki/Requests)
-	* [Policies](https://github.com/Mahmoudz/Hello-API/wiki/Policies)
-	* [Response Transformers](https://github.com/Mahmoudz/Hello-API/wiki/Response-Transformers)
-	* [Repositories](https://github.com/Mahmoudz/Hello-API/wiki/Repositories)
-	* [Database Criterias](https://github.com/Mahmoudz/Hello-API/wiki/Database-Criterias)
-	* [Database Migrations](https://github.com/Mahmoudz/Hello-API/wiki/Database-Migrations)
-	* [Exceptions](https://github.com/Mahmoudz/Hello-API/wiki/Exceptions)
-	* [Tests](https://github.com/Mahmoudz/Hello-API/wiki/Tests)
-	* [Models Factory](https://github.com/Mahmoudz/Hello-API/wiki/Models-Factory)
-	* [Database Seeders](https://github.com/Mahmoudz/Hello-API/wiki/Database-Seeders)
-
-
+The Documentation is now part of the repository [HERE](https://github.com/Mahmoudz/Hello-API/tree/release-0.1/Hello-API.wiki).
 
 
 <a name="Comming-Features"></a>
